@@ -48,8 +48,3 @@ Repository to host the results processing scripts of the Green VS Green analysis
 - `data/` – Input datasets and processed scenario results  
 - `scripts/` – R scripts for data processing and visualisation for HERMES
 - `figures/` – All the plots used in the paper  
-
----
-
-## Supplementary Dataset
-TBA
